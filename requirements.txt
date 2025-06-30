@@ -139,7 +139,7 @@ platformdirs==4.2.2
 prometheus_client==0.20.0
 prompt_toolkit==3.0.45
 proto-plus==1.24.0
-protobuf==4.25.3
+protobuf==4.25.8
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
